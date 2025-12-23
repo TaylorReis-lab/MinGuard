@@ -16,45 +16,59 @@ MingGuard representa uma missão de ajudar milhares de pessoas a quebrarem o cic
 ## 📱 Páginas e Funcionalidades
 
 ### 🏠 Início (/)
+
 Página principal com:
+
 - **Hero Section**: Apresentação do problema e solução
 - **Seções Informativas**: O problema da pornografia, estatísticas impactantes
 - **Call-to-Actions**: Botões para download e exploração
 - **Prova Social**: Contador de usuários e depoimentos
 
 ### ⚙️ Funcionalidades (/funcionalidades)
+
 Detalhes técnicos de como o bloqueador funciona:
+
 - **Tecnologia de Proteção Ativa**: Sistema inteligente de bloqueio
 - **Interface Simples**: Instalação em 3 passos
 - **Compatibilidade**: Windows 10/11 e macOS
 - **Recursos Avançados**: Bloqueio de apps específicos, proteção anti-desinstalação
 
 ### 📚 Recursos (/recursos)
+
 Centro educacional com:
+
 - **Artigos e Guias**: Sobre vício digital e recuperação
 - **Dicas Práticas**: Estratégias para manter o foco
 - **Materiais de Apoio**: Ferramentas complementares
 
 ### 💬 Histórias (/historias)
+
 Galeria de transformação:
+
 - **Depoimentos Reais**: Histórias de usuários que recuperaram o controle
 - **Jornadas em Destaque**: Casos de sucesso detalhados
 - **Comunidade**: Espaço para compartilhar experiências
 
 ### 💰 Preços (/precos)
+
 Planos de assinatura:
+
 - **Plano Gratuito**: Funcionalidades básicas
 - **Plano Premium**: Recursos avançados + suporte prioritário
 - **Para Famílias**: Controle parental e múltiplos dispositivos
 
 ### 🆘 Ajuda (/ajuda)
+
 Central de suporte:
+
 - **FAQ**: Perguntas frequentes
 - **Contato**: Formulário de suporte
 - **Documentação**: Guias de instalação e uso
 
 ### 📥 Download (/download)
+
 Página de download do software:
+
 - **Instalação Guiada**: Passo a passo com assistente virtual
 - **Informações Técnicas**: Requisitos e compatibilidade
 - **Avaliações**: Feedback dos usuários
@@ -93,23 +107,27 @@ O projeto inclui imagens representativas localizadas em `public/images/`:
 ## 🛠️ Como Executar Localmente
 
 ### Pré-requisitos
+
 - Node.js (versão 16 ou superior)
 - npm ou yarn
 
 ### Instalação
 
 1. **Clone o repositório:**
+
    ```bash
    git clone <url-do-repositorio>
    cd MingGuard
    ```
 
 2. **Instale as dependências:**
+
    ```bash
    npm install
    ```
 
 3. **Execute o servidor de desenvolvimento:**
+
    ```bash
    npm start
    ```
@@ -142,6 +160,7 @@ Como este é um projeto em desenvolvimento, contribuições são bem-vindas:
 3. **Pull Requests**: Código bem testado e documentado
 
 ### Diretrizes para Contribuição
+
 - Mantenha a consistência com o design system
 - Teste em múltiplos dispositivos
 - Documente mudanças significativas
@@ -167,4 +186,5 @@ Este software é uma ferramenta complementar, não um substituto para tratamento
 ---
 
 **Feito com ❤️ para ajudar na recuperação digital**
+
 # MinGuard
