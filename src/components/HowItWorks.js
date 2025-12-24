@@ -36,7 +36,7 @@ const HowItWorks = () => {
                     </Link>
                     <Link
                       className="text-sm font-medium leading-normal text-primary font-bold"
-                      to="/how-it-works"
+                      to="/funcionalidades"
                     >
                       Como Funciona
                     </Link>
