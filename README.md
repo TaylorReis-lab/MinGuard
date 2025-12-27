@@ -15,7 +15,7 @@ MingGuard representa uma missão de ajudar milhares de pessoas a quebrarem o cic
 
 ## 📱 Páginas e Funcionalidades
 
-### 🏠 Início (/)
+### 🏠 Início
 
 Página principal com:
 
@@ -24,7 +24,7 @@ Página principal com:
 - **Call-to-Actions**: Botões para download e exploração
 - **Prova Social**: Contador de usuários e depoimentos
 
-### ⚙️ Funcionalidades (/funcionalidades)
+### ⚙️ Funcionalidades
 
 Detalhes técnicos de como o bloqueador funciona:
 
@@ -33,7 +33,7 @@ Detalhes técnicos de como o bloqueador funciona:
 - **Compatibilidade**: Windows 10/11 e macOS
 - **Recursos Avançados**: Bloqueio de apps específicos, proteção anti-desinstalação
 
-### 📚 Recursos (/recursos)
+### 📚 Recursos
 
 Centro educacional com:
 
@@ -41,7 +41,7 @@ Centro educacional com:
 - **Dicas Práticas**: Estratégias para manter o foco
 - **Materiais de Apoio**: Ferramentas complementares
 
-### 💬 Histórias (/historias)
+### 💬 Histórias
 
 Galeria de transformação:
 
@@ -49,7 +49,7 @@ Galeria de transformação:
 - **Jornadas em Destaque**: Casos de sucesso detalhados
 - **Comunidade**: Espaço para compartilhar experiências
 
-### 💰 Preços (/precos)
+### 💰 Preços
 
 Planos de assinatura:
 
@@ -57,7 +57,7 @@ Planos de assinatura:
 - **Plano Premium**: Recursos avançados + suporte prioritário
 - **Para Famílias**: Controle parental e múltiplos dispositivos
 
-### 🆘 Ajuda (/ajuda)
+### 🆘 Ajuda
 
 Central de suporte:
 
@@ -65,7 +65,7 @@ Central de suporte:
 - **Contato**: Formulário de suporte
 - **Documentação**: Guias de instalação e uso
 
-### 📥 Download (/download)
+### 📥 Download
 
 Página de download do software:
 
@@ -103,53 +103,6 @@ O projeto inclui imagens representativas localizadas em `public/images/`:
 - **2 milhões+ sites** bloqueados automaticamente
 - **4.9/5 estrelas** de avaliação média
 - **15.000+ vidas** impactadas positivamente
-
-## 🛠️ Como Executar Localmente
-
-### Pré-requisitos
-
-- Node.js (versão 16 ou superior)
-- npm ou yarn
-
-### Instalação
-
-1. **Clone o repositório:**
-
-   ```bash
-   git clone <url-do-repositorio>
-   cd MingGuard
-   ```
-
-2. **Instale as dependências:**
-
-   ```bash
-   npm install
-   ```
-
-3. **Execute o servidor de desenvolvimento:**
-
-   ```bash
-   npm start
-   ```
-
-4. **Acesse no navegador:**
-   - Abra [http://localhost:3000](http://localhost:3000)
-   - Navegue pelas diferentes rotas usando o menu
-
-### Build para Produção
-
-```bash
-npm run build
-```
-
-Os arquivos otimizados serão gerados na pasta `build/`.
-
-## 🔧 Scripts Disponíveis
-
-- `npm start`: Inicia o servidor de desenvolvimento
-- `npm run build`: Cria build de produção
-- `npm test`: Executa os testes
-- `npm run eject`: Remove as configurações do Create React App
 
 ## 🤝 Contribuição
 
